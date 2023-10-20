@@ -30,10 +30,6 @@ Before I began, I found these resources quite handy:
 - [Top CyberSecurity Blog Websites](https://onlinedegrees.sandiego.edu/top-cyber-security-blogs-websites/)
 
 
-## Instructions
-
-For detailed, step-by-step instructions on how I completed each part of the project, I referred to the [instructions document](instructions.md).
-
 ## My Day 1 Milestone
 
 By the end of Day 1, here's what I had achieved:
