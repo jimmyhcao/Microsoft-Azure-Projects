@@ -1,4 +1,4 @@
-# My Day 2 Project: Securing My Web Application with SSL Certificates (Azure Premium and GoDaddy Domain Version)
+# My Day 2 Project: Securing My Web Application with SSL Certificates
 
 Today, I embarked on the second part of my web development project. My goal was to enhance the security of my web application by implementing SSL certificates. Here's a detailed account of what I accomplished:
 
