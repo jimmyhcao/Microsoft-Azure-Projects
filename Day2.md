@@ -14,7 +14,6 @@ In Day 2 of my project, I focused on enhancing the security of my web applicatio
 
 4. **Creating and Binding an App Service Managed Certificate**: To address the trust issues with self-signed certificates, I created an Azure App Service Managed Certificate. This is a trusted certificate issued by a CA.
 
-5. **Answering Review Questions**: I provided responses to review questions to assess my understanding of the tasks completed.
 
 ## Resources
 
