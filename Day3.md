@@ -12,9 +12,6 @@ Welcome to my Day 3 Azure Security Activity repository! In this project, I'll wa
 
 - **Analyzing and Fixing a Defender for Cloud Recommendation**: I'll explore Microsoft Defender for Cloud, a management system that provides recommendations for enhancing the security of cloud resources. I'll analyze a recommendation and follow the steps to mitigate potential vulnerabilities.
 
-- **Answering Review Questions**: I've documented my progress and will answer review questions related to the project.
-
-- **Concluding and Submitting the Project**: I'll conclude the project, submit the necessary deliverables, and ensure that any paid features are appropriately handled to avoid unnecessary costs.
 
 ## Resources
 
@@ -26,15 +23,6 @@ To help me along the way, I've referred to various resources, including:
 - [Azure Security Center Documentation](https://docs.microsoft.com/en-us/azure/security-center/)
 - For Microsoft Support, I have access to [How to open a support ticket](https://docs.microsoft.com/en-us/azure/azure-portal/supportability/how-to-create-azure-support-request).
 
-## Getting Started
-
-Before I dive into Day 3, I've already completed several tasks from Day 2, including:
-
-- Creating a key vault.
-- Generating a self-signed certificate.
-- Importing and binding my self-signed certificate to my web app (for paid domains).
-- Creating and binding an App Service Managed Certificate (for paid domains).
-- Analyzing and comparing self-signed certificates and trusted certificates.
 
 ## Instructions
 
@@ -59,12 +47,5 @@ To enhance security, I'll configure a custom WAF rule that restricts access to m
 
 I'll tap into Microsoft Defender for Cloud to analyze and address a specific security recommendation. This is a crucial part of maintaining a secure web application.
 
-### Part 5: Answering Review Questions
-
-I've prepared a document with review questions that I'll answer. This document will be one of my deliverables at the end of the project.
-
-### Part 6: Concluding and Submitting My Project
-
-As I wrap up this project, I'll ensure that I've completed all required tasks, including submitting the review questions with screenshots. I'll also manage any paid features to avoid unnecessary costs.
 
 Thank you for joining me on this journey through Day 3 of my Azure Security Activity. Feel free to explore my progress and learnings documented in this repository.
