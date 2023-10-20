@@ -5,6 +5,8 @@ Welcome to my Azure projects repository. Here, you'll find a collection of proje
   <img src="https://i.imgur.com/tJBMaO4.png" alt="Centered Image" width="50%">
 </p>
 
+![Microsoft Azure Logo](azure-logo.png)
+
 
 
 ## Project List
