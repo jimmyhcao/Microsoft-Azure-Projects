@@ -65,10 +65,6 @@ I followed a series of step-by-step instructions to complete each part of Day 2.
 - Created an Azure App Service Managed Certificate.
 - Bound this managed certificate to the web application.
 
-### Part 5: Answering Review Questions
-
-- Opened the review questions document and provided answers.
-
 ## Day 2 Milestone
 
 By the end of Day 2, I had accomplished the following:
